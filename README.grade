@@ -1,0 +1,9 @@
+#include<marks>
+#include<stdio.h>
+#print f (" hello " )
+Enter Marks : 
+85-100-> Grade A 
+70-84 -> Grade B 
+55-69 -> Grade C 
+40-54 -> Grade D
+Below 40 -> Grade E
